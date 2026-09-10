@@ -57,3 +57,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # habit-tracker-laravel
+#Sistema de Acompanhamento de hábitos simples e eficiente para ajudar você a monitorar melhor seus hábitos diários.
